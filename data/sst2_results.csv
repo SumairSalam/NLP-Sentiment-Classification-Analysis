@@ -1,0 +1,121 @@
+sentence,label,idx,gold_label,category,notes,model_prediction,confidence,correct
+"a warm but realistic meditation on friendship , family and affection .",1,383,positive,clear,,positive,0.9998738765716553,True
+good old-fashioned slash-and-hack is back !,1,68,positive,clear,,positive,0.9981695413589478,True
+"about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological .",1,146,positive,contrastive,,positive,0.999845027923584,True
+his healthy sense of satire is light and fun ...,1,848,positive,clear,,positive,0.9998549222946167,True
+"woody allen 's latest is an ambling , broad comedy about all there is to love -- and hate -- about the movie biz .",1,830,positive,mixed,,positive,0.9961259961128235,True
+"the man from elysian fields is a cold , bliss-less work that groans along thinking itself some important comment on how life throws us some beguiling curves .",0,733,negative,clear,,negative,0.792159378528595,True
+"despite the evocative aesthetics evincing the hollow state of modern love life , the film never percolates beyond a monotonous whine .",0,845,negative,contrastive,,negative,0.9994792342185974,True
+"miller is playing so free with emotions , and the fact that children are hostages to fortune , that he makes the audience hostage to his swaggering affectation of seriousness .",1,850,positive,ambiguous,,positive,0.9953601956367493,True
+that is a compliment to kuras and miller .,1,138,positive,clear,,positive,0.9998264908790588,True
+a nightmare date with a half-formed wit done a great disservice by a lack of critical distance and a sad trust in liberal arts college bumper sticker platitudes .,0,155,negative,clear,,negative,0.9992893934249878,True
+"a big , gorgeous , sprawling swashbuckler that delivers its diversions in grand , uncomplicated fashion .",1,151,positive,clear,,positive,0.9998273253440857,True
+"the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty .",0,374,negative,clear,,negative,0.9997555613517761,True
+a solid examination of the male midlife crisis .,1,154,positive,clear,,positive,0.9997395873069763,True
+overall very good for what it 's trying to do .,1,150,positive,clear,,positive,0.9998157620429993,True
+made with no discernible craft and monstrously sanctimonious in dealing with childhood loss .,0,745,negative,clear,,negative,0.9997593760490417,True
+"it 's so mediocre , despite the dynamic duo on the marquee , that we just ca n't get no satisfaction .",0,538,negative,contrastive,,negative,0.999817430973053,True
+"the result is a gaudy bag of stale candy , something from a halloween that died .",0,761,negative,clear,,negative,0.9997696280479431,True
+"so much facile technique , such cute ideas , so little movie .",1,656,positive,mixed,,negative,0.9740117192268372,False
+"every dance becomes about seduction , where backstabbing and betrayals are celebrated , and sex is currency .",0,579,negative,clear,,positive,0.9889904260635376,False
+"the script kicks in , and mr. hartley 's distended pace and foot-dragging rhythms follow .",0,64,negative,clear,,positive,0.8576425909996033,False
+"passable entertainment , but it 's the kind of motion picture that wo n't make much of a splash when it 's released , and will not be remembered long afterwards .",0,571,negative,contrastive,,negative,0.9986740350723267,True
+manages to be sweet and wickedly satisfying at the same time .,1,168,positive,clear,,positive,0.9998869895935059,True
+"manages to transcend the sex , drugs and show-tunes plot into something far richer .",1,156,positive,clear,,positive,0.9997184872627258,True
+"it 's too self-important and plodding to be funny , and too clipped and abbreviated to be an epic .",0,836,negative,clear,,negative,0.9997395873069763,True
+"seldahl 's barbara is a precise and moving portrait of someone whose world is turned upside down , first by passion and then by illness .",1,570,positive,clear,,positive,0.999667763710022,True
+"it has the charm of the original american road movies , feasting on the gorgeous , ramshackle landscape of the filmmaker 's motherland .",1,820,positive,clear,,positive,0.9998781681060791,True
+"a spellbinding african film about the modern condition of rootlessness , a state experienced by millions around the globe .",1,816,positive,clear,,positive,0.9992035031318665,True
+"it does n't believe in itself , it has no sense of humor ... it 's just plain bored .",0,34,negative,clear,,negative,0.9998156428337097,True
+they should have called it gutterball .,0,712,negative,clear,,negative,0.9987515211105347,True
+corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in .,0,713,negative,contrastive,,negative,0.9991082549095154,True
+"on this tricky topic , tadpole is very much a step in the right direction , with its blend of frankness , civility and compassion .",1,63,positive,clear,,positive,0.9997650980949402,True
+"in its best moments , resembles a bad high school production of grease , without benefit of song .",0,19,negative,ambiguous,,negative,0.9995865225791931,True
+"it 's one of those baseball pictures where the hero is stoic , the wife is patient , the kids are as cute as all get-out and the odds against success are long enough to intimidate , but short enough to make a dream seem possible .",1,104,positive,clear,,positive,0.9983878135681152,True
+"trite , banal , cliched , mostly inoffensive .",0,436,negative,clear,,negative,0.99979168176651,True
+a rarity among recent iranian films : it 's a comedy full of gentle humor that chides the absurdity of its protagonist 's plight .,1,259,positive,clear,,positive,0.9997153878211975,True
+"it 's a cookie-cutter movie , a cut-and-paste job .",0,28,negative,clear,,negative,0.9915094375610352,True
+"just as moving , uplifting and funny as ever .",1,807,positive,clear,,positive,0.9998900890350342,True
+"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving .",1,766,positive,contrastive,,positive,0.9992901086807251,True
+"instead of hiding pinocchio from critics , miramax should have hidden it from everyone .",0,364,negative,clear,,negative,0.9963623881340027,True
+a giggle-inducing comedy with snappy dialogue and winning performances by an unlikely team of oscar-winners : susan sarandon and goldie hawn .,1,835,positive,clear,,positive,0.9998784065246582,True
+"martin and barbara are complex characters -- sometimes tender , sometimes angry -- and the delicate performances by sven wollter and viveka seldahl make their hopes and frustrations vivid .",1,231,positive,clear,,positive,0.999826967716217,True
+"this is an egotistical endeavor from the daughter of horror director dario argento ( a producer here ) , but her raw performance and utter fearlessness make it strangely magnetic .",1,514,positive,contrastive,,positive,0.9996110796928406,True
+"partway through watching this saccharine , easter-egg-colored concoction , you realize that it is made up of three episodes of a rejected tv show .",0,370,negative,clear,,negative,0.9997214674949646,True
+"stephen rea , aidan quinn , and alan bates play desmond 's legal eagles , and when joined by brosnan , the sight of this grandiloquent quartet lolling in pretty irish settings is a pleasant enough thing , ` tis .",1,860,positive,clear,,positive,0.9998277425765991,True
+"due to some script weaknesses and the casting of the director 's brother , the film trails off into inconsequentiality .",0,651,negative,clear,,negative,0.9995123147964478,True
+"outer-space buffs might love this film , but others will find its pleasures intermittent .",0,405,negative,contrastive,,positive,0.7707616090774536,False
+"another one of those estrogen overdose movies like `` divine secrets of the ya ya sisterhood , '' except that the writing , acting and character development are a lot better .",1,561,positive,contrastive,,negative,0.9938802719116211,False
+taylor appears to have blown his entire budget on soundtrack rights and had nothing left over for jokes .,0,257,negative,clear,,negative,0.9994311928749084,True
+... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock .,0,349,negative,clear,,negative,0.9970731735229492,True
+rare birds has more than enough charm to make it memorable .,1,525,positive,clear,,positive,0.9997953772544861,True
+"first-time writer-director serry shows a remarkable gift for storytelling with this moving , effective little film .",1,603,positive,clear,,positive,0.9998769760131836,True
+"a simple , but gritty and well-acted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past .",1,537,positive,clear,,positive,0.9998428821563721,True
+"for the first time in years , de niro digs deep emotionally , perhaps because he 's been stirred by the powerful work of his co-stars .",1,696,positive,clear,,positive,0.999091386795044,True
+and that leaves a hole in the center of the salton sea .,0,330,negative,ambiguous,,negative,0.9984146356582642,True
+the performances take the movie to a higher level .,1,611,positive,clear,,positive,0.9989270567893982,True
+unflinchingly bleak and desperate,0,1,negative,clear,,negative,0.998969554901123,True
+a good piece of work more often than not .,1,424,positive,clear,,positive,0.9998694658279419,True
+"the sort of film that makes me miss hitchcock , but also feel optimistic that there 's hope for popular cinema yet .",1,299,positive,contrastive,,positive,0.9953573346138,True
+"there are simply too many ideas floating around -- part farce , part sliding doors , part pop video -- and yet failing to exploit them .",0,408,negative,contrastive,,negative,0.9990696310997009,True
+that 's pure pr hype .,0,322,negative,clear,,negative,0.9973944425582886,True
+sam mendes has become valedictorian at the school for soft landings and easy ways out .,0,115,negative,ambiguous,,positive,0.9968371391296387,False
+zhang ... has done an amazing job of getting realistic performances from his mainly nonprofessional cast .,1,404,positive,clear,,positive,0.999812662601471,True
+worth watching for dong jie 's performance -- and for the way it documents a culture in the throes of rapid change .,1,720,positive,clear,,positive,0.999681830406189,True
+it takes talent to make a lifeless movie about the most heinous man who ever lived .,0,157,negative,ambiguous,,negative,0.9997040629386902,True
+a tv style murder mystery with a few big screen moments ( including one that seems to be made for a different film altogether ) .,0,477,negative,mixed,,positive,0.9732142090797424,False
+"it just may inspire a few younger moviegoers to read stevenson 's book , which is a treasure in and of itself .",1,277,positive,clear,,positive,0.99982750415802,True
+it 's hard to imagine alan arkin being better than he is in this performance .,1,753,positive,clear,,positive,0.9917047023773193,True
+k-19 exploits our substantial collective fear of nuclear holocaust to generate cheap hollywood tension .,0,285,negative,clear,,negative,0.9941457509994507,True
+"a poignant , artfully crafted meditation on mortality .",1,721,positive,clear,,positive,0.9998619556427002,True
+reign of fire looks as if it was made without much thought -- and is best watched that way .,1,230,positive,ambiguous,,negative,0.6403135061264038,False
+"in a way , the film feels like a breath of fresh air , but only to those that allow it in .",1,856,positive,clear,,positive,0.9945230484008789,True
+every nanosecond of the the new guy reminds you that you could be doing something else far more pleasurable .,0,118,negative,clear,,positive,0.9873793125152588,False
+"exciting and direct , with ghost imagery that shows just enough to keep us on our toes .",1,821,positive,clear,,positive,0.9998716115951538,True
+the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it .,0,145,negative,clear,,positive,0.8561826348304749,False
+do n't be fooled by the impressive cast list - eye see you is pure junk .,0,560,negative,clear,,negative,0.9983021020889282,True
+"while it 's genuinely cool to hear characters talk about early rap records ( sugar hill gang , etc. ) , the constant referencing of hip-hop arcana can alienate even the savviest audiences .",0,863,negative,contrastive,,negative,0.9653375744819641,True
+"the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough .",1,36,positive,clear,,positive,0.9991298317909241,True
+"while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while .",1,480,positive,contrastive,,positive,0.9996960163116455,True
+makes for a pretty unpleasant viewing experience .,0,606,negative,clear,,negative,0.9993359446525574,True
+"a difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear .",1,152,positive,contrastive,,positive,0.998794436454773,True
+"shaky close-ups of turkey-on-rolls , stubbly chins , liver spots , red noses and the filmmakers new bobbed do draw easy chuckles but lead nowhere .",0,465,negative,contrastive,,negative,0.9952941536903381,True
+the heavy-handed film is almost laughable as a consequence .,0,153,negative,clear,,negative,0.9987393021583557,True
+it 's just filler .,0,583,negative,clear,,negative,0.9968373775482178,True
+it 's a buggy drag .,0,822,negative,clear,,negative,0.9997678399085999,True
+"i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand .",0,182,negative,contrastive,,negative,0.9995177984237671,True
+a beguiling splash of pastel colors and prankish comedy from disney .,1,326,positive,clear,,positive,0.9994012117385864,True
+"this illuminating documentary transcends our preconceived vision of the holy land and its inhabitants , revealing the human complexities beneath .",1,41,positive,clear,,positive,0.9996800422668457,True
+"... a story we have n't seen on the big screen before , and it 's a story that we as americans , and human beings , should know .",1,588,positive,clear,,positive,0.9966986775398254,True
+"complete lack of originality , cleverness or even visible effort",0,315,negative,clear,,negative,0.9997922778129578,True
+it 's a charming and often affecting journey .,1,0,positive,clear,,positive,0.9998838901519775,True
+"even with a green mohawk and a sheet of fire-red flame tattoos covering his shoulder , however , kilmer seems to be posing , rather than acting .",0,291,negative,contrastive,,negative,0.9877693057060242,True
+"there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine .",1,78,positive,contrastive,,positive,0.9998239874839783,True
+"i do n't mind having my heartstrings pulled , but do n't treat me like a fool .",0,411,negative,contrastive,,positive,0.9368136525154114,False
+"`` mostly martha '' is a bright , light modern day family parable that wears its heart on its sleeve for all to see .",1,533,positive,clear,,positive,0.9996877908706665,True
+manages to be both repulsively sadistic and mundane .,0,58,negative,clear,,negative,0.9981203675270081,True
+a by-the-numbers effort that wo n't do much to enhance the franchise .,0,237,negative,clear,,negative,0.9994681477546692,True
+trademark american triteness and simplicity are tossed out the window with the intelligent french drama that deftly explores the difficult relationship between a father and son .,1,849,positive,clear,,positive,0.9989461302757263,True
+"dazzles with its fully-written characters , its determined stylishness ( which always relates to characters and story ) and johnny dankworth 's best soundtrack in years .",1,244,positive,clear,,positive,0.9998823404312134,True
+i do n't think i laughed out loud once .,0,770,negative,clear,,positive,0.8525211811065674,False
+"minority report is exactly what the title indicates , a report .",1,273,positive,ambiguous,,negative,0.8573428988456726,False
+seldom has a movie so closely matched the spirit of a man and his work .,1,24,positive,clear,,positive,0.9965078234672546,True
+"this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other .",1,440,positive,clear,,negative,0.7186528444290161,False
+a solid film ... but more conscientious than it is truly stirring .,1,143,positive,contrastive,,positive,0.9995518326759338,True
+"based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters",1,788,positive,clear,,positive,0.9997407793998718,True
+the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second .,0,147,negative,mixed,,negative,0.9742418527603149,True
+"dull , lifeless , and amateurishly assembled .",0,864,negative,clear,,negative,0.999804675579071,True
+"it 's as if you 're watching a movie that was made in 1978 but not released then because it was so weak , and it has been unearthed and released now , when it has become even weaker .",0,789,negative,clear,,negative,0.9791275858879089,True
+villeneuve spends too much time wallowing in bibi 's generic angst ( there are a lot of shots of her gazing out windows ) .,0,512,negative,clear,,negative,0.9996101260185242,True
+this is a train wreck of an action film -- a stupefying attempt by the filmmakers to force-feed james bond into the mindless xxx mold and throw 40 years of cinematic history down the toilet in favor of bright flashes and loud bangs .,0,79,negative,clear,,negative,0.9996278285980225,True
+"the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays .",0,301,negative,clear,,negative,0.5160359740257263,True
+"if there 's one thing this world needs less of , it 's movies about college that are written and directed by people who could n't pass an entrance exam .",0,759,negative,clear,,negative,0.9948683977127075,True
+"slapstick buffoonery can tickle many a preschooler 's fancy , but when it costs a family of four about $ 40 to see a film in theaters , why spend money on a dog like this when you can rent a pedigree instead ?",0,163,negative,contrastive,,negative,0.9984234571456909,True
+"audrey tatou has a knack for picking roles that magnify her outrageous charm , and in this literate french comedy , she 's as morning-glory exuberant as she was in amélie .",1,17,positive,clear,,positive,0.999798595905304,True
+part low rent godfather .,0,852,negative,clear,,negative,0.986882746219635,True
+the character of zigzag is not sufficiently developed to support a film constructed around him .,0,141,negative,clear,,negative,0.9997902512550354,True
+"irwin is a man with enough charisma and audacity to carry a dozen films , but this particular result is ultimately held back from being something greater .",0,805,negative,contrastive,,negative,0.6510829925537109,True
+"while locals will get a kick out of spotting cleveland sites , the rest of the world will enjoy a fast-paced comedy with quirks that might make the award-winning coen brothers envious .",1,644,positive,clear,,positive,0.9996129870414734,True
+"in the end , the movie collapses on its shaky foundation despite the best efforts of director joe carnahan .",0,682,negative,contrastive,,negative,0.9997732043266296,True
+"the very definition of the ` small ' movie , but it is a good stepping stone for director sprecher .",1,261,positive,contrastive,,positive,0.9997488856315613,True
+"by getting myself wrapped up in the visuals and eccentricities of many of the characters , i found myself confused when it came time to get to the heart of the movie .",0,158,negative,mixed,,positive,0.9935867786407471,False
