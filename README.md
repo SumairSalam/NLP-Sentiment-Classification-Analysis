@@ -8,7 +8,7 @@ Does a pretrained sentiment classifier perform worse on mixed, ambiguous, and co
 
 Hypothesis
 
-The pretrained sentiment classifier is expected to achieve higher accuracy on clearly positive and clearly negative sentences. Its performance is expected to decrease on mixed, ambiguous, and contrastive sentences because these cases require a better and
+The pretrained sentiment classifier is expected to achieve higher accuracy on clearly positive and clearly negative sentences. Its performance is expected to decrease on mixed, ambiguous, and contrastive sentences because these cases require a better understanding of context and the overall meaning of the sentence.
 
 Dataset
 
@@ -24,14 +24,9 @@ The sampling process used a fixed random seed of 42 for reproducibility.
 Each sentence was manually categorized into one of four categories:
 
 clear
-
 mixed
-
 contrastive
-
 ambiguous
-
-Then after that, start a new section:
 
 Model
 
@@ -46,28 +41,30 @@ Method
 The experiment was performed in the following steps:
 
 Load the SST-2 validation dataset.
+
 Randomly select 60 positive and 60 negative sentences.
+
 Manually categorize the 120 sentences as clear, mixed, contrastive, or ambiguous.
+
 Run the pretrained DistilBERT sentiment classifier on all sentences.
-Compare the model prediction with the official SST-2 gold label.
+
+Compare the model predictions with the official SST-2 gold labels.
+
 Calculate overall accuracy and accuracy for each sentence category.
+
 Analyze the sentences that were incorrectly classified.
 
 Results
 
 Overall accuracy: 87.50%
 
-Clear sentences:
-92.86%
+Clear sentences: 92.86%
 
-Contrastive sentences:
-87.50%
+Contrastive sentences: 87.50%
 
-Ambiguous sentences:
-57.14%
+Ambiguous sentences: 57.14%
 
-Mixed sentences:
-40.00%
+Mixed sentences: 40.00%
 
 The results show that the classifier performed best on clear sentences and considerably worse on mixed and ambiguous sentences.
 
@@ -81,18 +78,16 @@ dataset/dataset_Preparation.py
 Creates the balanced 120-sentence SST-2 sample.
 
 data/run_model.py
-Runs the pretrained DistilBERT model and saves its predic
+Runs the pretrained DistilBERT model and saves its predictions.
 
 data/analyze_results.py
-Displays the
+Calculates accuracy and analyzes incorrect predictions.
 
 data/sst2_sample_120_categorized.csv
 Contains the manually categorized evaluation sample.
 
 data/sst2_results.csv
 Contains the model predictions, confidence scores, and evaluation results.
-
-Req
 
 Installation
 
@@ -110,7 +105,7 @@ Run the model:
 
 python data/run_model.py
 
-Analyze the errors:
+Analyze the results:
 
 python data/analyze_results.py
 
@@ -134,22 +129,8 @@ Wilson, T., Wiebe, J., and Hoffmann, P. (2005). Recognizing Contextual Polarity 
 
 Socher, R. et al. (2013). Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank.
 
-Martins, P. H. et al. (2021). Why Do Document-Level Polarity Classifiers Fail?
+Martins, K., Vaz-de-Melo, P. O. S., and Santos, R. (2021). Why Do Document-Level Polarity Classifiers Fail?
 
 License
 
 This project is licensed under the MIT License.
-
-Then save README.md.
-
-After saving, run:
-
-git add README.md
-
-Then:
-
-git commit -m "docs: add project README and reproducibility instructions"
-
-Then:
-
-git push
